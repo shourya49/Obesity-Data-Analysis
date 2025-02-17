@@ -1,0 +1,18 @@
+,Column Name,Description
+0,Gender,Gender
+1,Age,Age
+2,Height,in metres
+3,Weight,in kgs
+4,family_history,Has a family member suffered or suffers from overweight?
+5,FAVC,Do you eat high caloric food frequently?
+6,FCVC,Do you usually eat vegetables in your meals?
+7,NCP,How many main meals do you have daily?
+8,CAEC,Do you eat any food between meals?
+9,SMOKE,Do you smoke?
+10,CH2O,How much water do you drink daily?
+11,SCC,Do you monitor the calories you eat daily?
+12,FAF,How often do you have physical activity?
+13,TUE,"How much time do you use technological devices such as cell phone, videogames, television, computer and others?"
+14,CALC,How often do you drink alcohol?
+15,MTRANS,Which transportation do you usually use?
+16,Obesity_level (Target Column),Obesity level
